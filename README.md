@@ -1,5 +1,6 @@
 # lipology
 lipology page
+Lipology Clinic is dé specialist in liposuctie, lipofilling en de behandeling van lipoedeem. Wij behandelen onder alléén lokale verdoving. Dit maakt de behandelingen veilig en leidt tot het mooist mogelijke resultaat.
 [www.lipology](https://www.lipologyclinic.nl/)
 
 Liposuctie
